@@ -1,6 +1,5 @@
 # Web-Crawler
-Esse projeto vai ler um site em Html que vai trazer o resultado solicitado, no caso o resultado vai ser a quantidade de infectados no município de Cidade Ocidental de
-acordo com o site da prefeitura.
+Esse projeto vai ler um site em Html que vai trazer o resultado solicitado, no caso o resultado vai ser a quantidade de infectados no município de Cidade Ocidental de acordo com o site da prefeitura.
 
 
 
